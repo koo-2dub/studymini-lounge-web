@@ -126,7 +126,7 @@ export default function MiniLoungePage() {
               : "text-zinc-400"
               }`}
           >
-            자유 이야기
+            미니 수다방
           </button>
 
           <button
